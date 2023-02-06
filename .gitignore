@@ -1,0 +1,6 @@
+*.code-workspace
+db.sqlite3
+*.log
+*.pyc
+__pycache__/
+settings_local.py
